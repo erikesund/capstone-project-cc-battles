@@ -22,11 +22,10 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Dungeon Battle</h3>
+  <h3 align="center">CodeClan Battles</h3>
 
   <p align="center">
-    
-    A Group JavaScript Project
+    CodeClan Capstone Project
   </p>
 </div>
 
