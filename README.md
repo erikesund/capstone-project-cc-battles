@@ -10,12 +10,10 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -64,9 +62,8 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Project blurb here
-and here
-and more here
+CodeClan Battles was the final project as part of the CodeClan 16 Week Proffessional Software Development course. As a group of four we worked on a 2D battle game with different enemies and characters using a Java/Spring backend and a React frontend.
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -82,6 +79,7 @@ The following Languages, Frameworks & Libraries were used to build this project.
 * [![Node.js][Node-pic]][Node-url]
 * [![HTML5][HTML5-pic]][HTML5-url]
 * [![CSS3][CSS3-pic]][CSS3-url]
+* [![Java][Java-pic]][Java-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,14 +213,12 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/erikesund/capstone-project-cc-battles
+[contributors-shield]: https://img.shields.io/github/contributors/erikesund/capstone-project-cc-battles?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [GitHub-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [JamesGitHub]: https://github.com/j-rob16
 [CalumGitHub]: https://github.com
-[ErikGitHub]: https://github.com
+[ErikGitHub]: https://github.com/erikesund
 [KennyGitHub]: https://github.com
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
@@ -232,7 +228,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/016-james-robbins
-[ErikLinkedIn]: https://www.linkedin.com
+[ErikLinkedIn]: https://www.linkedin.com/erik-erling-sund
 [CalumLinkedIn]: https://www.linkedin.com
 [KennyLinkedIn]: https://www.linkedin.com
 [product-screenshot]: images/screenshot.png
@@ -243,8 +239,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [CSS3-pic]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[chart.js-pic]: https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white
-[chart.js-url]: https://www.chartjs.org/
 [Express-pic]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express-url]: https://expressjs.com/
 [Flask-pic]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
