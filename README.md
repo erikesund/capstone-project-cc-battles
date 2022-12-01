@@ -64,11 +64,7 @@
 
 CodeClan Battles was the final project as part of the CodeClan 16 Week Proffessional Software Development course. As a group of four we worked on a 2D battle game with different enemies and characters using a Java/Spring backend and a React frontend.
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -245,6 +241,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [Flask-url]: https://flask.palletsprojects.com/
 [HTML5-pic]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[Java-pic]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[Java-url]: https://www.java.com/
 [JavaScript-pic]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JavaScript-url]: https://www.javascript.com/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
